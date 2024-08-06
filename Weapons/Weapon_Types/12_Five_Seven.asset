@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c4a8bc75566a9ae48b33a85409f6109c, type: 3}
+  m_Name: 12_Five_Seven
+  m_EditorClassIdentifier: 
+  Name: Five Seven
+  Description: Light
+  ID: 12
+  Bullet: {fileID: 7501620422283538703, guid: 028831b283c563746915177113a0ba3f, type: 3}
+  FiringTime: 0.25
+  Damage: 35
+  ReloadSpeed: 0.8
+  Scatter: 1.5
+  Pellets: 1
+  ClipAmmo: 20
+  StoredAmmo: 160
+  WallCost: 750
+  Hands: 1
+  Burst: 0
