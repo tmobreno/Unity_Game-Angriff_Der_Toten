@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 44212540248c01c4ca20dc795d77f9fd, type: 3}
+  m_Name: Basic_Zombie
+  m_EditorClassIdentifier: 
+  Name: Basic Zombie
+  Description: 
+  ID: 1
+  Health: 100
+  Speed: 1.6
+  AttackSpeed: 1.2
+  PointValue: 60
